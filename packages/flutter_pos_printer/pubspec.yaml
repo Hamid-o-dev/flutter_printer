@@ -16,7 +16,7 @@ dependencies:
   # esc_pos_utils_forked:
   #   path: "../esc_pos_utils"
   network_info_plus: ^1.1.0
-  image: ^3.0.8
+  image: ^4.1.7
 
 dev_dependencies:
   flutter_test:
